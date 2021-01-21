@@ -1,1 +1,0 @@
-- [GH-pages](https://isavlex.github.io/FSD_toxin/)
