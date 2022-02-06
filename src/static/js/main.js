@@ -43,6 +43,7 @@ function stubVideoSlide (slideEl, video) {
     });
 }
 //
+stubVideoSlide('.slider__slide--advices', '<div class="you-tube__relation"><div class="you-tube__ratio"></div><iframe class="you-tube__content" src="https://www.youtube.com/embed/Ca_J5XMFqRk" frameborder="0" allow="accelerometer" allowfullscreen></iframe></div>');
 stubVideoSlide('.slider__slide--clip', '<div class="you-tube__relation"><div class="you-tube__ratio"></div><iframe class="you-tube__content" src="https://www.youtube.com/embed/TNwfr313Tsg?autoplay=1" frameborder="0" allow="accelerometer; gyroscope; " allowfullscreen></iframe></div>');
 stubVideoSlide('.slider__slide--promo', '<div class="you-tube__relation"><div class="you-tube__ratio"></div><iframe class="you-tube__content" src="https://www.youtube.com/embed/6HeeDmfQWgc?autoplay=1" frameborder="0" allow="accelerometer; gyroscope; " allowfullscreen></iframe></div>');
 
